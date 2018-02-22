@@ -1,0 +1,14 @@
+.joke-container {
+	display: flex;
+	flex-flow: column nowrap;
+    justify-content: center;
+    align-items: center;
+}
+.joke__btn {
+	width: 120px;
+	height: 60px;
+	background: green;
+}
+.joke__text {
+	max-width: 400px;
+}
